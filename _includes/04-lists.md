@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+1. food
+2. sleep
+3. exercise
+
+- today
+- tomorrow
+- next week
